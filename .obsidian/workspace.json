@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e04861e57a8e06eb",
+        "id": "5eb534c2da39d7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "1bf8833226055ae6",
+            "id": "7da3ddbdad0d8b3e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1bf8833226055ae6",
+  "active": "7da3ddbdad0d8b3e",
   "lastOpenFiles": [
+    "2023-07-17.md",
+    "Настройка Visual Studio Code.md",
+    "Web/Django/Основные команды.md",
+    "Web/Frontend/JSON + js.md",
     "Linux/Fedora Zero.md",
     "Linux/Монтирование дисков и разделов.md",
     "Linux/fedora zero/Telegram баг.md",
@@ -162,7 +166,6 @@
     "Картинки/доп. настройки GNOME/Основное.png",
     "Картинки/доп. настройки GNOME",
     "WEB.md",
-    "Web/Django/Основные команды.md",
     "Web/Django",
     "Web",
     "Linux.md",
@@ -172,7 +175,6 @@
     "Docker/Dockerignore.md",
     "Web/Frontend/Тэг video.md",
     "Docker.md",
-    "Web/Frontend/JSON + js.md",
     "Docker",
     "Linux/TLP.md",
     "Linux",
