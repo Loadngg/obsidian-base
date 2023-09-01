@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb534c2da39d7c0",
+        "id": "9e35454ac2850076",
         "type": "tabs",
         "children": [
           {
-            "id": "7da3ddbdad0d8b3e",
+            "id": "e8fdffd2b61b56d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настройка Visual Studio Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f8e036638346e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Django/Основные команды.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beb3f310fc0047a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Frontend/Конфиги prettier, eslint и stylelint.md",
+                "file": "NeoVim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/Конфиги prettier, eslint и stylelint.md",
+                "file": "NeoVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/Конфиги prettier, eslint и stylelint.md",
+                "file": "NeoVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/Конфиги prettier, eslint и stylelint.md"
+                "file": "NeoVim.md"
               }
             }
           }
@@ -171,13 +146,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1b0024fed528dc75",
+  "active": "e8fdffd2b61b56d3",
   "lastOpenFiles": [
+    "Картинки/Mason.png",
+    "nvim/Mason.md",
+    "Настройка Visual Studio Code.md",
+    "nvim",
     "Web/Frontend/JSON + js.md",
-    "Web/Frontend/Конфиги prettier, eslint и stylelint.md",
+    "nvim/Конфиги prettier, eslint и stylelint.md",
     "Web/Django/Основные команды.md",
     "NeoVim.md",
-    "Настройка Visual Studio Code.md",
     "2023-07-17.md",
     "Linux/Fedora Zero.md",
     "Linux/Монтирование дисков и разделов.md",
@@ -207,8 +185,6 @@
     "Docker/Makefile.md",
     "Docker/Работа с docker.md",
     "Docker/Dockerfile.md",
-    "Docker/Dockerignore.md",
-    "Web/Frontend/Тэг video.md",
     "Docker",
     "Linux",
     "Web/Frontend",
