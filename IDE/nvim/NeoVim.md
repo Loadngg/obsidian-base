@@ -72,8 +72,10 @@ null_ls.setup({
 }
 ```
 
-## `Mason` - менеджер пакетов:
+## [[Mason]] - менеджер пакетов:
 ####  Его вызов:
 ```
 :Mason
 ```
+
+## [[Конфиги prettier, eslint и stylelint]]

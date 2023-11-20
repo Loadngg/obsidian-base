@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e2228b4617cd96b5",
+        "id": "be3ce9f976da26d8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ecd56be4e709344",
+            "id": "248e4e994f4a3d86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Фишки Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Фишки Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Фишки Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Фишки Obsidian.md"
+              }
             }
           },
           {
@@ -148,36 +156,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0ecd56be4e709344",
+  "active": "248e4e994f4a3d86",
   "lastOpenFiles": [
+    "Obsidian hub.md",
+    "Фишки Obsidian.md",
+    "Без названия",
+    "IDE/nvim/NeoVim.md",
+    "Web/WEB.md",
+    "Web/Django/Основные команды Django.md",
+    "Linux/Linux.md",
+    "Docker/Docker.md",
+    "Docker/Dockerfile.md",
+    "IDE/IDE.md",
+    "IDE",
+    "Без названия.canvas",
+    "`Mason`.md",
     "Linux/Кастомизация.md",
+    "IDE/nvim/Конфиги prettier, eslint и stylelint.md",
     "Linux/fedora zero/Gnome tweak tools.md",
-    "Linux.md",
-    "Web/Django/Основные команды.md",
     "Docker/Makefile.md",
     "Linux/fedora zero/Fstab.md",
     "Linux/Монтирование дисков и разделов.md",
     "Linux/Fedora Zero.md",
-    "nvim/Конфиги prettier, eslint и stylelint.md",
-    "nvim/Mason.md",
+    "IDE/nvim/Mason.md",
     "Картинки/Mason.png",
-    "WEB.md",
-    "NeoVim.md",
-    "Docker.md",
     "Web/Frontend/JSON + js.md",
     "Web/Frontend/Тэг video.md",
     "Linux/TLP.md",
-    "Docker/Dockerfile.md",
-    "Настройка Visual Studio Code.md",
-    "nvim",
+    "IDE/Настройка Visual Studio Code.md",
+    "IDE/nvim",
     "2023-07-17.md",
     "Linux/fedora zero/Telegram баг.md",
     "Linux/fedora zero/PortProton.md",
     "Linux/fedora zero/NVidia.md",
-    "Linux/fedora zero/Flathub.md",
-    "Linux/fedora zero/DNF.md",
-    "Linux/fedora zero/Расширения.md",
-    "Linux/fedora zero/Консольный софт.md",
     "Картинки/Монтирование NTFS в Linux.png",
     "Картинки/fstab.png",
     "Картинки/Расширения GNOME.png",
@@ -191,7 +202,6 @@
     "Docker",
     "Linux",
     "Web/Frontend",
-    "Картинки",
-    "Linux/fedora zero"
+    "Картинки"
   ]
 }
