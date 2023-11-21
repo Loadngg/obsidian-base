@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be3ce9f976da26d8",
+        "id": "2792b0b1720285d2",
         "type": "tabs",
         "children": [
           {
-            "id": "248e4e994f4a3d86",
+            "id": "e65d2b57230c57e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фишки Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фишки Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Фишки Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Фишки Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "248e4e994f4a3d86",
+  "active": "e65d2b57230c57e7",
   "lastOpenFiles": [
-    "Obsidian hub.md",
     "Фишки Obsidian.md",
+    "Obsidian hub.md",
     "Без названия",
     "IDE/nvim/NeoVim.md",
     "Web/WEB.md",
