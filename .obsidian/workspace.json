@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2792b0b1720285d2",
+        "id": "d4756b8015677b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "e65d2b57230c57e7",
+            "id": "918d4ebb99612b3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Кастомизация.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Кастомизация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Кастомизация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Кастомизация.md"
+              }
             }
           },
           {
@@ -127,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -148,39 +158,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e65d2b57230c57e7",
+  "active": "918d4ebb99612b3c",
   "lastOpenFiles": [
     "Фишки Obsidian.md",
+    "Linux/Кастомизация.md",
+    "Вариант 17.md",
     "Obsidian hub.md",
-    "Без названия",
+    "Linux/fedora zero/DNF.md",
+    "Linux/Fedora Zero.md",
+    "Linux/Linux.md",
+    "mongodb.md",
+    "Linux/TLP.md",
+    "Linux/Монтирование дисков и разделов.md",
+    "Виртуализация",
+    "IDE/nvim/Конфиги prettier, eslint и stylelint.md",
     "IDE/nvim/NeoVim.md",
+    "IDE/IDE.md",
     "Web/WEB.md",
     "Web/Django/Основные команды Django.md",
-    "Linux/Linux.md",
     "Docker/Docker.md",
     "Docker/Dockerfile.md",
-    "IDE/IDE.md",
     "IDE",
     "Без названия.canvas",
     "`Mason`.md",
-    "Linux/Кастомизация.md",
-    "IDE/nvim/Конфиги prettier, eslint и stylelint.md",
     "Linux/fedora zero/Gnome tweak tools.md",
     "Docker/Makefile.md",
     "Linux/fedora zero/Fstab.md",
-    "Linux/Монтирование дисков и разделов.md",
-    "Linux/Fedora Zero.md",
     "IDE/nvim/Mason.md",
     "Картинки/Mason.png",
     "Web/Frontend/JSON + js.md",
     "Web/Frontend/Тэг video.md",
-    "Linux/TLP.md",
     "IDE/Настройка Visual Studio Code.md",
     "IDE/nvim",
     "2023-07-17.md",
-    "Linux/fedora zero/Telegram баг.md",
-    "Linux/fedora zero/PortProton.md",
-    "Linux/fedora zero/NVidia.md",
     "Картинки/Монтирование NTFS в Linux.png",
     "Картинки/fstab.png",
     "Картинки/Расширения GNOME.png",
