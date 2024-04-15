@@ -1,5 +1,5 @@
 Пример `dockerfile`:
-```
+```dockerfile
 FROM node
 
 WORKDIR /app

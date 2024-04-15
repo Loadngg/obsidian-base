@@ -1,4 +1,4 @@
-```
+```bash
 sudo dnf install papirus-icon-theme
 ```
 

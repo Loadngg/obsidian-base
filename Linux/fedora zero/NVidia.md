@@ -1,20 +1,20 @@
-```
+```bash
 sudo dnf install gcc kernel-headers kernel-devel akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-libs xorg-x11-drv-nvidia-power nvidia-settings 
 ```
 
 #### NVidia Optimus
 Подключим репозитории RPM Fusion:
 
-```
+```bash
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
 
 Установим стандартный драйвер NVIDIA для современных видеокарт:
 
-```
+```bash
 sudo dnf install gcc kernel-headers kernel-devel akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-libs
 ```
-```
+```bash
 sudo dnf install xorg-x11-drv-nvidia-libs.i686
 ```
 
@@ -22,7 +22,7 @@ sudo dnf install xorg-x11-drv-nvidia-libs.i686
 
 По окончании установки необходимо убедиться, что модули ядра были успешно собраны и установлены корректно:
 
-```
+```bash
 sudo akmods --force
 ```
 
@@ -30,7 +30,7 @@ sudo akmods --force
 
 Теперь вырежем из образа [initrd](https://ru.wikipedia.org/wiki/Initrd) драйвер nouveau и добавим NVIDIA:
 
-```
+```bash
 sudo dracut --force
 ```
 
@@ -38,7 +38,7 @@ sudo dracut --force
 
 >[!bug] Если по окончании установки и перезагрузки вместо окна входа в систему нас встретит чёрный экран, то в загрузчике добавим через пробел следующие параметры ядра:
 
-```
+```bash
 rd.drivers.blacklist=nouveau nouveau.modeset=0
 ```
 

@@ -1,6 +1,6 @@
 Открываем `fstab`
 
-```
+```bash
 sudo gnome-text-editor /etc/fstab
 ```
 

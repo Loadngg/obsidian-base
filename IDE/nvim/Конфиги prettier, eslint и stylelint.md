@@ -1,6 +1,6 @@
 ### Prettier
 `.prettierrc.json`:
-```
+```json
 {
 	"printWidth": 80,
 	"tabWidth": 4,
@@ -27,7 +27,7 @@ coverage
 
 ### Eslint
 `.eslintrc.js`:
-```
+```js
 module.exports = {
     env: {
         browser: true,
@@ -52,7 +52,7 @@ coverage
 
 ### Stylelint
 `.stylelintrc.json`:
-```
+```json
 {
 	"rules": {
 		"selector-class-pattern": [

@@ -1,6 +1,6 @@
 В терминале выполняем:
 
-```
+```bash
 sudo gnome-text-editor /etc/dnf/dnf.conf
 ```
 
@@ -15,7 +15,7 @@ keepcache=True
 
 Далее выполняем:
 
-```
+```bash
 sudo dnf autoremove && sudo dnf clean all
 ```
 

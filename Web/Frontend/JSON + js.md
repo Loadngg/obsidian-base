@@ -1,12 +1,12 @@
 Тестовый файл `config.json`:
-```
+```json
 {
     "backend_url": "http://localhost:5115/"
 }
 ```
 
 Функция получения файла `config.json`:
-```
+```js
 getConfig: () => {
 	try {
 		const request = new XMLHttpRequest();
@@ -20,7 +20,7 @@ getConfig: () => {
 ```
 
 Пример использования:
-```
+```js
 const CONFIG = utils.getConfig();
 export const BACKEND = CONFIG.backend_url
 const BACKEND_USER = `${BACKEND}user/`
