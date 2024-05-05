@@ -18,4 +18,6 @@ wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_sc
 
 > [!info] Все ярлыки создаются в папке ~/.local/share/applications
 
+>[!bug] При ошибке открытия через ярлык нужно отредактировать `PortProton.desktop`, убрав кавычки в путях к папке
+
 #portproton #proton

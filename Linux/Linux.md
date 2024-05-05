@@ -1,5 +1,5 @@
 ## [[Fedora Zero]]
 ## [[Монтирование дисков и разделов]]
-## [[TLP]]
+## [[Thumbnails для RAW и HEIC]]
 
 ## [[Docker]]
