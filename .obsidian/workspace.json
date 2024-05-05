@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/fedora zero/Telegram баг.md",
+                "file": "Linux/GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/fedora zero/Telegram баг.md",
+                "file": "Linux/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/fedora zero/Telegram баг.md",
+                "file": "Linux/GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/fedora zero/Telegram баг.md"
+                "file": "Linux/GIT.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "0ff13d08d6d45636",
   "lastOpenFiles": [
+    "Linux/fedora zero/Telegram баг.md",
+    "Linux/GIT.md",
     "Linux/fedora zero/PortProton.md",
     "Linux/fedora zero/NVidia.md",
     "Linux/fedora zero/Gnome tweak tools.md",
@@ -186,7 +188,6 @@
     "Linux/Fedora Zero.md",
     "Linux/Монтирование дисков и разделов.md",
     "Linux/Кастомизация.md",
-    "Linux/fedora zero/Telegram баг.md",
     "IDE/NeoVim.md",
     "IDE/Mason.md",
     "IDE/IDE.md",
