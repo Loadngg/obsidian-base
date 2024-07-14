@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ffca68713bdc97ce",
+        "id": "ff939ca270a672c5",
         "type": "tabs",
         "children": [
           {
-            "id": "0ff13d08d6d45636",
+            "id": "5962a245456f6d9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/GIT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/GIT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,20 +150,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0ff13d08d6d45636",
+  "active": "5962a245456f6d9c",
   "lastOpenFiles": [
-    "Linux/fedora zero/Telegram баг.md",
+    "Linux/Thumbnails для RAW и HEIC.md",
+    "Linux/Linux.md",
     "Linux/GIT.md",
-    "Linux/fedora zero/PortProton.md",
-    "Linux/fedora zero/NVidia.md",
-    "Linux/fedora zero/Gnome tweak tools.md",
-    "Linux/fedora zero/Fstab.md",
-    "Linux/fedora zero/Flathub.md",
-    "Linux/fedora zero/DNF.md",
+    "Linux/Fedora Zero.md",
+    "Obsidian hub.md",
+    "IDE/NeoVim.md",
+    "IDE/Mason.md",
+    "Фишки Obsidian.md",
+    "Web/WEB.md",
+    "IDE.md",
+    "Web/Frontend/Тэг video.md",
+    "Web/Frontend/JSON + ванильный js.md",
+    "Web/Django/Деплой на Timeweb.md",
+    "Web/Django/Основные команды Django.md",
+    "Linux/Установка zsh и oh-my-zsh.md",
+    "Linux/Установка Golang.md",
+    "Linux/fedora zero/Telegram баг.md",
     "Linux/fedora zero/Расширения.md",
-    "Linux/fedora zero/Консольный софт.md",
-    "Linux/fedora zero/Кодеки.md",
-    "Linux/fedora zero/Иконки papirus.md",
+    "Linux/Кастомизация.md",
     "Картинки/Mason.png",
     "Картинки/fstab.png",
     "Картинки/Расширения GNOME.png",
@@ -180,20 +179,13 @@
     "Картинки/доп. настройки GNOME/Окна.png",
     "Картинки/доп. настройки GNOME/Заголовки окон.png",
     "Картинки/доп. настройки GNOME/Верхняя панель.png",
-    "Фишки Obsidian.md",
-    "Web/WEB.md",
-    "Linux/Thumbnails для RAW и HEIC.md",
-    "Linux/Linux.md",
-    "Linux/TLP.md",
-    "Linux/Fedora Zero.md",
+    "Docker/Работа с docker.md",
+    "Docker/Docker.md",
     "Linux/Монтирование дисков и разделов.md",
-    "Linux/Кастомизация.md",
-    "IDE/NeoVim.md",
-    "IDE/Mason.md",
-    "IDE/IDE.md",
-    "IDE/nvim/Конфиги prettier, eslint и stylelint.md",
-    "IDE/Настройка Visual Studio Code.md",
-    "Obsidian hub.md",
+    "Linux/fedora zero/NVidia.md",
+    "Linux/fedora zero/DNF.md",
+    "Linux/fedora zero/Кодеки.md",
+    "Linux/fedora zero/Иконки papirus.md",
     "Виртуализация",
     "IDE",
     "Без названия.canvas",

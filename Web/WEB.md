@@ -1,9 +1,7 @@
 ## Frontend
-[[JSON + js]]
+[[JSON + ванильный js]]
 [[Тэг video]]
 
-## [[Основные команды Django]]
-
-## [[IDE]]
-
-## [[Docker]]
+## Django
+[[Основные команды Django]]
+[[Деплой на Timeweb]]
