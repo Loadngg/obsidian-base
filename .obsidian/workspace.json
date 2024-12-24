@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff939ca270a672c5",
+        "id": "c0eb74d32a10bbd1",
         "type": "tabs",
         "children": [
           {
-            "id": "5962a245456f6d9c",
+            "id": "323e424cdb718643",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/fedora zero/Кодеки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Кодеки"
             }
           },
           {
@@ -97,9 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/fedora zero/Кодеки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Кодеки"
             }
           },
           {
@@ -110,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -118,7 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/fedora zero/Кодеки.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Кодеки"
             }
           },
           {
@@ -130,7 +150,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ]
@@ -150,27 +172,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5962a245456f6d9c",
+  "active": "323e424cdb718643",
   "lastOpenFiles": [
+    "Linux/fedora zero/Поддержка ExFat.md",
+    "Linux/fedora zero/Иконки papirus.md",
     "Linux/Thumbnails для RAW и HEIC.md",
-    "Linux/Linux.md",
+    "Linux/fedora zero/Кодеки.md",
+    "Linux/fedora zero/NVidia.md",
+    "Linux/fedora zero/Консольный софт.md",
+    "Linux/fedora zero/GDM главный монитор.md",
     "Linux/GIT.md",
-    "Linux/Fedora Zero.md",
-    "Obsidian hub.md",
-    "IDE/NeoVim.md",
-    "IDE/Mason.md",
-    "Фишки Obsidian.md",
-    "Web/WEB.md",
-    "IDE.md",
-    "Web/Frontend/Тэг video.md",
-    "Web/Frontend/JSON + ванильный js.md",
-    "Web/Django/Деплой на Timeweb.md",
-    "Web/Django/Основные команды Django.md",
     "Linux/Установка zsh и oh-my-zsh.md",
     "Linux/Установка Golang.md",
-    "Linux/fedora zero/Telegram баг.md",
     "Linux/fedora zero/Расширения.md",
+    "Linux/fedora zero/DNF.md",
+    "Linux/fedora zero/Gnome tweak tools.md",
+    "Linux/fedora zero/Fstab.md",
+    "Linux/fedora zero/Flathub.md",
+    "Linux/Linux.md",
+    "Linux/Fedora Zero.md",
+    "Linux/Монтирование дисков и разделов.md",
     "Linux/Кастомизация.md",
+    "Linux/fedora zero/Telegram баг.md",
+    "Linux/fedora zero/PortProton.md",
+    "Docker/Dockerfile.md",
+    "Docker/Docker.md",
+    "Docker/Makefile.md",
+    "Docker/Работа с docker.md",
+    "Web/Frontend/SEO React.md",
     "Картинки/Mason.png",
     "Картинки/fstab.png",
     "Картинки/Расширения GNOME.png",
@@ -179,13 +208,6 @@
     "Картинки/доп. настройки GNOME/Окна.png",
     "Картинки/доп. настройки GNOME/Заголовки окон.png",
     "Картинки/доп. настройки GNOME/Верхняя панель.png",
-    "Docker/Работа с docker.md",
-    "Docker/Docker.md",
-    "Linux/Монтирование дисков и разделов.md",
-    "Linux/fedora zero/NVidia.md",
-    "Linux/fedora zero/DNF.md",
-    "Linux/fedora zero/Кодеки.md",
-    "Linux/fedora zero/Иконки papirus.md",
     "Виртуализация",
     "IDE",
     "Без названия.canvas",

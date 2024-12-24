@@ -12,7 +12,7 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 Установим стандартный драйвер NVIDIA для современных видеокарт:
 
 ```bash
-sudo dnf install gcc kernel-headers kernel-devel akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-libs
+sudo dnf install gcc kernel-headers kernel-devel akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-libs xorg-x11-drv-nvidia-cuda
 ```
 ```bash
 sudo dnf install xorg-x11-drv-nvidia-libs.i686
