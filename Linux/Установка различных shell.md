@@ -1,3 +1,5 @@
+## ZSH, OH-MY-ZSH
+
 ```bash
 sudo dnf install zsh
 
@@ -11,3 +13,15 @@ git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$H
 ```
 
 Добавить `ZSH_THEME="powerlevel10k/powerlevel10k"` в `~/.zshrc`
+
+## FISH
+
+```bash
+sudo dnf install fish
+```
+
+Добавить в `~/.config/fish/config/fish`:
+
+```
+set fish_greeting
+```

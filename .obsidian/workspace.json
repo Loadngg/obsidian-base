@@ -11,10 +11,14 @@
             "id": "323e424cdb718643",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian hub.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Obsidian hub"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -174,32 +179,32 @@
   },
   "active": "323e424cdb718643",
   "lastOpenFiles": [
-    "Linux/fedora zero/Поддержка ExFat.md",
-    "Linux/fedora zero/Иконки papirus.md",
-    "Linux/Thumbnails для RAW и HEIC.md",
-    "Linux/fedora zero/Кодеки.md",
+    "Фишки Obsidian.md",
+    "Web/WEB.md",
+    "Web/Frontend/SEO React.md",
+    "Web/Frontend/JSON + ванильный js.md",
+    "Web/Frontend/Тэг video.md",
+    "Web/Django/Основные команды Django.md",
+    "Web/Django/Деплой на Timeweb.md",
+    "Linux/Fedora Zero.md",
     "Linux/fedora zero/NVidia.md",
+    "Linux/fedora zero/Fstab.md",
+    "Linux/Linux.md",
+    "Linux/Кастомизация.md",
+    "Linux/VPN.md",
+    "Linux/Установка различных shell.md",
+    "Obsidian hub.md",
+    "Linux/fedora zero/Иконки papirus.md",
+    "Linux/fedora zero/Кодеки.md",
+    "Linux/fedora zero/Gnome tweak tools.md",
+    "Linux/fedora zero/Поддержка ExFat.md",
+    "Linux/Thumbnails для RAW и HEIC.md",
     "Linux/fedora zero/Консольный софт.md",
     "Linux/fedora zero/GDM главный монитор.md",
     "Linux/GIT.md",
-    "Linux/Установка zsh и oh-my-zsh.md",
     "Linux/Установка Golang.md",
     "Linux/fedora zero/Расширения.md",
     "Linux/fedora zero/DNF.md",
-    "Linux/fedora zero/Gnome tweak tools.md",
-    "Linux/fedora zero/Fstab.md",
-    "Linux/fedora zero/Flathub.md",
-    "Linux/Linux.md",
-    "Linux/Fedora Zero.md",
-    "Linux/Монтирование дисков и разделов.md",
-    "Linux/Кастомизация.md",
-    "Linux/fedora zero/Telegram баг.md",
-    "Linux/fedora zero/PortProton.md",
-    "Docker/Dockerfile.md",
-    "Docker/Docker.md",
-    "Docker/Makefile.md",
-    "Docker/Работа с docker.md",
-    "Web/Frontend/SEO React.md",
     "Картинки/Mason.png",
     "Картинки/fstab.png",
     "Картинки/Расширения GNOME.png",
