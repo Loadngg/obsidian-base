@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0eb74d32a10bbd1",
+        "id": "b000fa9de65657ab",
         "type": "tabs",
         "children": [
           {
-            "id": "323e424cdb718643",
+            "id": "fddff39a8dab4580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian hub.md",
-                "mode": "preview",
+                "file": "IDE/JetBrains .vmoptions.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian hub"
+              "title": "JetBrains .vmoptions"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -177,42 +178,43 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "323e424cdb718643",
+  "active": "fddff39a8dab4580",
   "lastOpenFiles": [
-    "Фишки Obsidian.md",
-    "Web/WEB.md",
+    "Docker/Makefile.md",
+    "IDE/JetBrains .vmoptions.md",
+    "IDE",
+    "Docker/Dockerignore.md",
+    "Docker/Docker.md",
+    "Docker/Dockerfile.md",
     "Web/Frontend/SEO React.md",
     "Web/Frontend/JSON + ванильный js.md",
     "Web/Frontend/Тэг video.md",
     "Web/Django/Основные команды Django.md",
     "Web/Django/Деплой на Timeweb.md",
-    "Linux/Fedora Zero.md",
-    "Linux/fedora zero/NVidia.md",
-    "Linux/fedora zero/Fstab.md",
-    "Linux/Linux.md",
-    "Linux/Кастомизация.md",
-    "Linux/VPN.md",
-    "Linux/Установка различных shell.md",
-    "Obsidian hub.md",
-    "Linux/fedora zero/Иконки papirus.md",
-    "Linux/fedora zero/Кодеки.md",
-    "Linux/fedora zero/Gnome tweak tools.md",
-    "Linux/fedora zero/Поддержка ExFat.md",
-    "Linux/Thumbnails для RAW и HEIC.md",
-    "Linux/fedora zero/Консольный софт.md",
-    "Linux/fedora zero/GDM главный монитор.md",
     "Linux/GIT.md",
-    "Linux/Установка Golang.md",
-    "Linux/fedora zero/Расширения.md",
-    "Linux/fedora zero/DNF.md",
-    "Картинки/Mason.png",
-    "Картинки/fstab.png",
-    "Картинки/Расширения GNOME.png",
-    "Картинки/Монтирование NTFS в Linux.png",
     "Картинки/доп. настройки GNOME/Основное.png",
     "Картинки/доп. настройки GNOME/Окна.png",
-    "Картинки/доп. настройки GNOME/Заголовки окон.png",
     "Картинки/доп. настройки GNOME/Верхняя панель.png",
+    "Картинки/доп. настройки GNOME/Заголовки окон.png",
+    "Картинки/Расширения GNOME.png",
+    "Картинки/Монтирование NTFS в Linux.png",
+    "Картинки/Mason.png",
+    "Картинки/fstab.png",
+    "Docker/Работа с docker.md",
+    "Linux/fedora zero/NVidia.md",
+    "Linux/fedora zero/Telegram баг.md",
+    "Linux/fedora zero/Gnome tweak tools.md",
+    "Linux/fedora zero/GDM главный монитор.md",
+    "Linux/fedora zero/Fstab.md",
+    "Linux/fedora zero/Flathub.md",
+    "Linux/fedora zero/DNF.md",
+    "Linux/fedora zero/Расширения.md",
+    "Linux/fedora zero/Поддержка ExFat.md",
+    "Linux/fedora zero/Консольный софт.md",
+    "Linux/fedora zero/Кодеки.md",
+    "Linux/fedora zero/Иконки papirus.md",
+    "Linux/Кастомизация.md",
+    "Linux/Монтирование дисков и разделов.md",
     "Виртуализация",
     "IDE",
     "Без названия.canvas",
@@ -222,7 +224,6 @@
     "Web",
     "Docker",
     "Linux",
-    "Web/Frontend",
-    "Картинки"
+    "Web/Frontend"
   ]
 }
